@@ -1,7 +1,7 @@
 export class Dish {
     id: string = "";
     name: string = "";
-    image: string = "../assets/images/alberto.png";
+    image: string = "";
     category: string = "";
     featured: boolean = false;
     label:string = "";
