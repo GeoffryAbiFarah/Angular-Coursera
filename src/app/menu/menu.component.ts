@@ -22,6 +22,7 @@ export class MenuComponent implements OnInit {
     comments: []
   };
 
+
   constructor(private dishService: DishService) { }
 
   ngOnInit(): void {
